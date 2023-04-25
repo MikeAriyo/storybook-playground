@@ -9,3 +9,16 @@
   border-radius: 4px;
   cursor: pointer;
 }
+
+.primary {
+  background-color: #008cba;
+}
+.secondary {
+  background-color: #e7e7e7;
+}
+.success {
+  background-color: #44f500;
+}
+danger {
+  background-color: #f44336;
+}
